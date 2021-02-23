@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled 
+9e0d30872d98a6ce6bdbe12e997c8d31ef0e2f2d refs/remotes/origin/T02_release
+724aaa27d864c2214c698083b3a79f7d84dd284a refs/remotes/origin/cos8.x
+937332b35424b66d17fbd28be4430ff166986542 refs/remotes/origin/dev_p
+42b63cb7fc9c7ae21c4864ee01bcb950b7fdc99d refs/remotes/origin/dev_power
+0efee561eeb291f058c37776a1699834babdc814 refs/remotes/origin/dev_theme
+d48f61d1b0247ecc8dffa106fecdc8aaeeeb6f57 refs/remotes/origin/master
+e17e33693467f6df2a1f7df0aaa6947e3df7881d refs/remotes/origin/pie_release_1
